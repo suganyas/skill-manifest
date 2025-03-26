@@ -16,7 +16,7 @@
         "name": "default",
         "protocol": "BotFrameworkV3",
         "description": "Default endpoint for the skill",
-        "endpointUrl": "https://z2g9vm0r-39783.aue.devtunnels.ms/api/messages",
+        "endpointUrl": "https://m1k0bw5r-39783.aue.devtunnels.ms/api/messages",
         "msAppId": "00000000-0000-0000-0000-000000000000"
       }
     ]
